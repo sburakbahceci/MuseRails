@@ -22,6 +22,7 @@ gem 'simple_form', '~> 5.0', '>= 5.0.3'
 gem 'devise', '~> 4.7', '>= 4.7.3'
 gem 'paperclip', '~> 6.1'
 gem 'paperclip', '~> 6.1'
+gem 'acts_as_votable', '~> 0.12.1'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
