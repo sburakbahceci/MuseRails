@@ -1,1 +1,4 @@
-%h1 This is the index page
+- @posts.each do |post|
+    %h2= link_to post.title, post
+
+= link_to "Add New Inspiration", new_post_path
